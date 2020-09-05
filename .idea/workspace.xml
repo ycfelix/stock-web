@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1185d3b3-9a3f-4aed-a04a-5d272f734590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/base-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/spc-custom-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rule_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snp500.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock_trace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stock-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stock-web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/CSV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/SPY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-ticker.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/.idea/stock-web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/assets/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/assets/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/assets/plotly_ga.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/assets/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/data/CSV.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/data/SPY.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/stock-ticker.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock-web/tickers.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tickers.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +15,12 @@
     <session id="1532726086">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="454" />
+          <entry key="py" value="455" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="454" />
+          <entry key="Python" value="455" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -85,11 +52,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="156" column="37" lean-forward="true" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+            <state relative-caret-position="302">
+              <caret line="196" column="32" selection-start-line="196" selection-start-column="32" selection-end-line="196" selection-end-column="32" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1599280005623" expanded="true" signature="10440:10442" ph="..." />
+                <element signature="e#865#3791#0" />
+                <element signature="e#3837#4284#0" />
+                <marker date="1599280646611" expanded="true" signature="10363:10365" ph="..." />
               </folding>
             </state>
           </provider>
@@ -149,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-105" />
     <option name="width" value="1000" />
     <option name="height" value="1125" />
@@ -284,7 +253,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.1235119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.077496275" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04023845" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36214605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,6 +355,17 @@
     </state>
     <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1587813523227" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://F:/WPy-3662/notebooks/comp4332/social network/evaluate.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -443,11 +423,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="156" column="37" lean-forward="true" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+        <state relative-caret-position="302">
+          <caret line="196" column="32" selection-start-line="196" selection-start-column="32" selection-end-line="196" selection-end-column="32" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1599280005623" expanded="true" signature="10440:10442" ph="..." />
+            <element signature="e#865#3791#0" />
+            <element signature="e#3837#4284#0" />
+            <marker date="1599280646611" expanded="true" signature="10363:10365" ph="..." />
           </folding>
         </state>
       </provider>

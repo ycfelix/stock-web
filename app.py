@@ -193,8 +193,9 @@ def update_graph(tickers, bollinger_click, ma_click, ema_click, pp_click, vwap_c
         return html.H3(
             "Select a stock ticker.",
             style={'marginTop': 20, 'marginBottom': 20})
-    if rule:
-        webbrowser.open('http://159.138.146.202:8001/')
+    # if rule:
+    #     webbrowser.open('http://159.138.146.202:8001/')
+
     # get button pressed
     changed_id = [p['prop_id'] for p in dash.callback_context.triggered][0]
 
