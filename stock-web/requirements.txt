@@ -31,7 +31,7 @@ numpy==1.13.0
 pandas==0.20.2
 pathlib2==2.3.2
 pickleshare==0.7.4
-Pillow==5.2.0
+Pillow==8.2.0
 plotly==3.3.0
 prompt-toolkit==1.0.15
 pyEX==0.0.10
